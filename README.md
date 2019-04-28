@@ -1,2 +1,2 @@
 # Categories-Prediction
-Categories Prediciton Using Naive Bayes
+Categories Prediction Using Naive Bayes and used sklearn 20_news_groups dataset
